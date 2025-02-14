@@ -1,22 +1,22 @@
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Charles "Chuck" White
+position: Research Scientist
+affiliation: Cooperative Institute for Research in the Atmosphere;\n Colorado State University - Fort Collins
+email: charles |dot| white |at| colostate |dot| edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Charles Chuck White Remote Sensing Machine Learning Clouds Atmosphere Meteorology
+description: This is my website that I spent several long minutes on
+canonical: 
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+#cv_link: assets/files/curriculum_vitae.pdf
+#github_link: https://github.com/chkhw
+linkedin: https://www.linkedin.com/in/chuck-white-b3212a208/
+#twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
